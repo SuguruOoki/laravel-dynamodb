@@ -1,0 +1,5 @@
+*.aws
+.env
+vendor
+bootstrap/cache/*
+storage/framework/cache/*

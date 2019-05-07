@@ -1,0 +1,3 @@
+[default]
+region = localhost:8000
+output = json
